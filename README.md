@@ -4,7 +4,7 @@
 
 
 # Prueba tecnica API
-Cambie de npm a yarn por problemas de depencias que tuve y me fue mas facil solucionarlas usando yarn
+
 
 1. Clonar proyecto
 2. ```yarn install```
